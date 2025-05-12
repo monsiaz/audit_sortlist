@@ -1,4 +1,4 @@
-# Improve Internal Linking & PR Distribution for Agency Pages
+# Improve internal linking & PR distribution for agency pages
 
 ## Description
 
@@ -6,10 +6,10 @@ Agency profile pages (`/agency/...`) represent the deepest level of the site's h
 
 ## Evidence & data
 
-1.  **Low PageRank Distribution**: Analysis of internal PR flow (`/Volumes/T7/sortlist/sortlist-analyzer/reports/pr_analysis.xlsx`) reveals that agency pages generally receive low PR scores compared to shallower pages, hindering their ability to rank independently and pass authority.
-2.  **Significant Traffic Category**: Despite PR challenges, agency pages collectively represent the 3rd highest traffic-driving category, indicating strong user interest and search demand.
+1.  **Low pageRank distribution**: Analysis of internal PR flow (`/Volumes/T7/sortlist/sortlist-analyzer/reports/pr_analysis.xlsx`) reveals that agency pages generally receive low PR scores compared to shallower pages, hindering their ability to rank independently and pass authority.
+2.  **Significant traffic category**: Despite PR challenges, agency pages collectively represent the 3rd highest traffic-driving category, indicating strong user interest and search demand.
     ![Top 10 Categories by Organic Traffic](../../../sortlist-analyzer/reports/charts/Top10_Category_Traffic.png)
-3.  **High Zombie Page Count**: Agency pages account for the highest number of zombie pages on the site, suggesting many are poorly linked internally, difficult for users and search engines to discover, and receive little to no organic traffic individually.
+3.  **High Zombie page count**: Agency pages account for the highest number of zombie pages on the site, suggesting many are poorly linked internally, difficult for users and search engines to discover, and receive little to no organic traffic individually.
     ![Zombie Page Count by Category](../../../sortlist-analyzer/reports/charts/Zombies_count_Category.png)
 
 ## Recommendation: Implement internal linking module on agency pages
