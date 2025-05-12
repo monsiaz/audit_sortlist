@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# macOS
+.DS_Store
+._*
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Excel temp file
+~$*.xlsx
+
+# Log files
+*.log
+
+# CSV files in data (if they are generated and not meant to be versioned)
+# sortlist-analyzer/data/*.csv
+
+# Reports (if they are generated and not meant to be versioned)
+# sortlist-analyzer/reports/charts/*.png
+# sortlist-analyzer/reports/*.xlsx 
