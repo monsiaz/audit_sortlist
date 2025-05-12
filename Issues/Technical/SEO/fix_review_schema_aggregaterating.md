@@ -75,9 +75,9 @@ Here's what I recommend we do:
 
 Getting this `aggregateRating` in place will bring some really positive results:
 
--   **No More Search Console Errors:** This will clear up those validation errors, which helps Google see your site as well-maintained and technically sound.
--   **Unlock Star Ratings (Rich Snippets):** This is the big one! It makes your pages eligible for those star ratings that you see directly in Google search results. These stars can really make your listings pop, grab attention, and significantly increase the number of people clicking through to your site.
--   **Boost Trust and Credibility:** When Google sees this clear summary of customer satisfaction, it can build trust. This not only helps users feel more confident but can also have a positive knock-on effect on your rankings.
+-   **No more search console errors:** This will clear up those validation errors, which helps Google see your site as well-maintained and technically sound.
+-   **Unlock star ratings (rich snippets):** This is the big one! It makes your pages eligible for those star ratings that you see directly in Google search results. These stars can really make your listings pop, grab attention, and significantly increase the number of people clicking through to your site.
+-   **Boost trust and credibility:** When Google sees this clear summary of customer satisfaction, it can build trust. This not only helps users feel more confident but can also have a positive knock-on effect on your rankings.
 
 ---
 

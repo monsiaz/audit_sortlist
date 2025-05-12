@@ -1,4 +1,4 @@
-# Avoid Redirects on Script Assets
+# Avoid redirects on script assets
 
 ## Description
 
@@ -11,12 +11,12 @@ The page includes a JavaScript asset that is served via a **redirect**, introduc
 Redirected script:
 - https://www.sortlist.com/cdn-cgi/challenge-platform/scripts/jsd/main.js
 
-## Suggested Fix
+## Suggested fix
 
 - **Use the final, resolved URL directly** if possible, to eliminate the extra round trip caused by the redirect.
 - If the redirect is managed by Cloudflare or a security system, consider adjusting the routing or rewriting configuration to serve the asset directly.
 
-## Why It Matters
+## Why it matters
 
 Redirects:
 - Add latency, especially over mobile and high-latency networks.

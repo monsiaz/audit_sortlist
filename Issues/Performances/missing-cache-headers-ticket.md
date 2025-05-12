@@ -31,7 +31,7 @@ The analysis presented here is based on a single example URL; however, the cachi
 - https://a.usbrowserspeed.com/cs
 - https://secure.leadforensics.com/apollo/capture
 
-## Suggested Fix (Only for Sortlist URLs)
+## Suggested fix (Only for Sortlist URLs)
 
 Update your server or CDN configuration to apply long-term caching headers to static assets, such as:
 

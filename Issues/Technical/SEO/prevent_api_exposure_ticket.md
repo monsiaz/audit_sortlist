@@ -102,7 +102,7 @@ https://www.sortlist.com/api/query/agency-competitors/dot-analytics?locale=es&v=
 ```
 is returning inconsistent status codes depending on the request type, which leads to confusion in SEO tools like Google Search Console.
 
-## Status Behavior Summary
+## Status behavior summary
 
 | Access method                        | HTTP status | Interpretation                                         |
 |-------------------------------------|-------------|--------------------------------------------------------|

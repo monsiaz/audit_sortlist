@@ -1,9 +1,9 @@
-# CSS Optimization Opportunity for Sortlist
+# CSS optimization opportunity for Sortlist
 
 ## Context  
 While analyzing the page https://www.sortlist.com/digital-marketing/united-states-us, we found that the CSS file 4a9a61b89f1c03a7.css could be significantly optimized for performance.
 
-## Technical Setup  
+## Technical setup  
 I tried using PurgeCSS to strip unused CSS from this file. It was a bit tricky due to the Node.js setup and how the styles are bundled via Next.js, but I managed to isolate the relevant styles used by the HTML for that page.
 
 Here’s the script used:
@@ -58,7 +58,7 @@ EOF
 echo "Report generated: css-optimization-summary.txt"
 ```
 
-## Summary Report
+## Summary report
 
 - Original CSS Size: 404 KB  
 - After Purge: 9 KB  

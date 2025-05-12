@@ -16,12 +16,12 @@ Agency profile pages (`/agency/...`) represent the deepest level of the site's h
 
 To improve PR distribution, reduce orphan pages, and increase the visibility of valuable agency profiles, implement a dynamic internal linking module on each `/agency/` page. This module should feature two types of links:
 
-1.  **Related Agencies (5 links)**:
+1.  **Related agencies (5 links)**:
     *   **Criteria**: Link to 5 other agency pages that share the **same primary service AND the same primary location** as the current page.
     *   **Selection**: Randomly select from the pool of matching agencies to ensure variety over time.
     *   **Goal**: Strengthen topical clusters and improve discoverability within specific service/location niches.
 
-2.  **Strategic Links (3 links)**:
+2.  **Strategic links (3 links)**:
     *   **Criteria**: Link to 3 other agency pages based on strategic goals, requiring a "smart rule". This rule should aim to boost pages that need more visibility. Potential criteria include:
         *   Agencies with very low calculated internal PR.
         *   Agencies identified as orphaned or having few incoming internal links.
@@ -43,8 +43,8 @@ Agency pages are fundamentally important to Sortlist's business model. Analysis 
 
 Furthermore, the `/agency/` category represents a significant pool of untapped potential, as highlighted by the "Opportunities" metric:
 
--   **Opportunity Definition**: Pages flagged as "Opportunities" are those with **above-median PageRank or Weighted PageRank** (indicating existing authority or potential) but generating **very few clicks (<10)**. They represent authority that isn't translating into traffic.
--   **Agency Pages as Key Opportunities**: While the specific chart isn't included here due to relevance to the primary topic, analysis often shows the `/agency/` category contains a high number of these opportunity pages. Targeting these pages with better internal linking and potential content/UX improvements is a high-potential strategy to convert existing PR into tangible organic traffic.
+-   **Opportunity definition**: Pages flagged as "Opportunities" are those with **above-median PageRank or Weighted PageRank** (indicating existing authority or potential) but generating **very few clicks (<10)**. They represent authority that isn't translating into traffic.
+-   **Agency pages as key opportunities**: While the specific chart isn't included here due to relevance to the primary topic, analysis often shows the `/agency/` category contains a high number of these opportunity pages. Targeting these pages with better internal linking and potential content/UX improvements is a high-potential strategy to convert existing PR into tangible organic traffic.
     *Note: The chart `Opportunities_count_Category.png` (available in `/Volumes/T7/sortlist/sortlist-analyzer/reports/charts/`) quantifies this opportunity count per category.*
 
 ## Expected benefits

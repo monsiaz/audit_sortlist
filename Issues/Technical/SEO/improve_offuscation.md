@@ -18,10 +18,10 @@ Personally, I advocate for minimal use of cloaking. If implemented, links must b
     ![Obfuscated Review Link Structure](../../../Crawl/Capture/review_class.png)
     *Caption: HTML structure of the obfuscated link.*
 
-    *JS Snippet Example (illustrating discoverable review path):*
+    *JS Snippet Example (illustrating discoverable review path from JS bundle):*
     ```javascript
     // ...
-    ("span",{className:"mb-4",children:E("agency:profile.about.details.noReview")}),(0,l.tZ)(Z.s,{className:"underline text-primary-500",href:`/agency/${M}/review`,obfuscate:!0,children:E("agency:profile.about.details.reviewFirstCta")})]
+    className:"h1 bold",children:(0,y.t)(ed)}),(0,l.tZ)("span",{className:"h5",children:"/5"}]}):(0,l.BX)("div",{className:"pb-16 px-16 layout-column text-center layout-align-center-center small",children:[(0,l.tZ)("span",{className:"mb-4",children:E("agency:profile.about.details.noReview")}),(0,l.tZ)(Z.s,{className:"underline text-primary-500",href:`/agency/${M}/review`,obfuscate:!0,children:E("agency:profile.about.details.reviewFirstCta")})]}),(0,l.tZ)(p.i,{count:5,rate:eo>0?(0,y.t)(ed):0,direction:"column",children:eo>0?(0,l.tZ)("a",{className:"text-secondary-900 underline mt-4 cursor-pointer",onClick:()=>C(H("reviews")),onKeyDown:()=>C(H("reviews")),tabIndex:0,role:"button",children:(0,l.BX)(h.cC,{i18nKey:"agency:profile.about.details.reviewsCount",count:eo,children:["(",{count:eo}," reviews)"]})})})]
     // ...
     ```
     This implies that even if the `<a>` tag is manipulated, the true path remains discoverable.
@@ -33,7 +33,7 @@ Imperfect cloaking carries risks of indexing issues or search engine penalties. 
 *   Temporary JavaScript-injected links (e.g., during A/B tests).
 *   Exposure in crawlable external files (RSS feeds, JSON-LD, external JS/JSON configs).
 
-**Conclusion on Obfuscation**: While search engines, particularly Googlebot, are increasingly sophisticated at rendering JavaScript and discovering content, it remains theoretically possible that highly complex obfuscation techniques or link generation triggered by very specific user interactions (not easily replicable by bots) might go undetected, at least temporarily. However, the effort to maintain such systems against evolving crawler capabilities, and the inherent risks of being flagged for deceptive practices, generally outweigh the potential short-term benefits for most production websites.
+**Conclusion on obfuscation**: While search engines, particularly Googlebot, are increasingly sophisticated at rendering JavaScript and discovering content, it remains theoretically possible that highly complex obfuscation techniques or link generation triggered by very specific user interactions (not easily replicable by bots) might go undetected, at least temporarily. However, the effort to maintain such systems against evolving crawler capabilities, and the inherent risks of being flagged for deceptive practices, generally outweigh the potential short-term benefits for most production websites.
 
 ## Recommendations
 
