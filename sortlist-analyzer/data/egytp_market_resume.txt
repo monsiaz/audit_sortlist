@@ -1,0 +1,116 @@
+This page contains all the data, insights, and trends you need to help you understand how people in Egypt use digital devices, online platforms, and connected services in 2025.
+
+If you want to know whether this is our most recent report on Egypt, or if you’re looking for data on digital trends and behaviours in Egypt for other years, you can find DataReportal’s full collection of (free!) reports on Egypt by clicking here.
+
+You’ll also find the complete Digital 2025 report for Egypt in the “full report” section towards the bottom of this page, but we’ll start this article by taking a look at the essential headline numbers for Egypt this year.
+
+Just before that, we’d like to say a big thank you to Meltwater and to We Are Social for their support of the Global Digital Reports series in 2025.
+
+Now, let’s start exploring the data…
+
+
+The “state of digital” in Egypt in 2025
+Here are DataReportal’s essential headlines for the adoption and use of connected devices and services in Egypt in 2025:
+
+A total of 116 million cellular mobile connections were active in Egypt in early 2025, with this figure equivalent to 99.0 percent of the total population. However, note that some of these connections may only include services such as voice and SMS, and some may not include access to the internet.
+
+
+There were 96.3 million individuals using the internet in Egypt at the start of 2025, when online penetration stood at 81.9 percent.
+
+
+Egypt was home to 50.7 million social media user identities in January 2025, equating to 43.1 percent of the total population.
+
+These headline stats offer a great overview of the “state of digital” in Egypt at the start of 2025, but in order to make sense of how digital trends and behaviours have been evolving over time, we need to dig deeper into the data.
+
+Let’s take a closer look at what the numbers tell us, starting with some valuable context relating to the population of Egypt.
+
+
+
+Population of Egypt in 2025
+The population of Egypt stood at 117 million in January 2025.
+
+Data shows that Egypt’s population increased by 1.9 million (+1.7 percent) between early 2024 and the start of 2025.
+
+Meanwhile, in early 2025, 43.4 percent of Egypt’s population lived in urban centres, whereas 56.6 percent lived in rural areas.
+
+At that time, 49.5 percent of Egypt’s population was female, while 50.5 percent of the population was male.
+
+Note: gender data were only available for “female” and “male” at the time of report production.
+
+Egypt’s population by age
+At the beginning of 2025, the median age of Egypt’s population was 24.5, with half of Egypt’s population above this age, and the other half of the population below it.
+
+For added context, here’s how Egypt’s total population broke down by age group at the start of the year:
+
+10.0 percent was between the ages of 0 and 4.
+
+17.4 percent was between the ages of 5 and 12.
+
+9.9 percent was between the ages of 13 and 17.
+
+11.9 percent was between the ages of 18 and 24.
+
+15.0 percent was between the ages of 25 and 34.
+
+13.6 percent was between the ages of 35 and 44.
+
+9.9 percent was between the ages of 45 and 54.
+
+6.9 percent was between the ages of 55 and 64.
+
+5.3 percent was aged 65 and above.
+
+Note: percentages may not sum to 100 percent due to rounding.
+
+
+Mobile connections in Egypt in 2025
+Data from GSMA Intelligence shows that there were 116 million cellular mobile connections in Egypt at the beginning of 2025.
+
+For perspective, many people make use of more than one mobile connection, so it’s not unusual for mobile connection figures to significantly exceed figures for total population.
+
+For example, the same person might have one mobile connection for personal use, but also use a separate mobile connection for work activities. The rise of eSIMs has made this even easier over recent years.
+
+However, this practice hasn’t yet pushed mobile connectivity rates in Egypt beyond 100 percent, and GSMA Intelligence’s numbers indicate that mobile connections in Egypt were equivalent to 99.0 percent of the total population in January 2025.
+
+Looking at trends over time, the number of mobile connections in Egypt increased by 6.4 million (+5.8 percent) between the start of 2024 and the beginning of 2025.
+
+Meanwhile, GSMA Intelligence’s data suggests that 93.7% of mobile connections in Egypt can now be considered “broadband”, which means that they connect via 3G, 4G, or 5G mobile networks.
+
+However, devices that connect to “broadband” mobile networks do not necessarily use cellular mobile data — for example, some subscription plans may only include access to voice and SMS services — so this broadband figure should not be considered a proxy for mobile internet use.
+
+
+Need quick stats for other countries? Click here to read our Digital 2025 Local Country Headlines report, which offers essential digital data for almost every country in the world.
+
+Internet use in Egypt in 2025
+At the time of report production, the latest available data indicated that there were 96.3 million internet users in Egypt in January 2025.
+
+This means that Egypt’s internet penetration rate stood at 81.9 percent of the total population at the start of the year.
+
+Meanwhile, Kepios’s analysis indicates that the number of internet users in Egypt increased by 12 million (+14.6 percent) between January 2024 and January 2025.
+
+And for added perspective, Egypt’s internet adoption rate (i.e. the percentage of the total population that uses the internet) increased by a relative 12.7 percent (+923 basis points) during the same period.
+
+But these user figures also suggest that 21.2 million people in Egypt did not use the internet at the beginning of 2025, suggesting that 18.1 percent of the population remained “offline” at the start of the year.
+
+However, complexities associated with the collection and analysis of internet user data mean that it can often take several months before research is ready for publication.
+
+As a result, the latest published figures for internet use may under-represent current realities, and actual rates for internet adoption and year-on-year growth may be higher than the figures shown here suggest.
+
+Please see our comprehensive notes on data for further details.
+
+
+Go global: see how Egypt’s current “state of digital” compares with connectivity in other countries by reading our flagship Digital 2025 Global Overview Report, which includes hundreds of slides of global digital data, as well as our in-depth analysis of what these numbers might mean for you.
+
+Internet connection speeds in Egypt in 2025
+Figures published by Ookla indicate that internet users in Egypt could have expected the following internet connection speeds at the beginning of 2025, reported in megabits per second (Mbps):
+
+Median mobile internet download speed via cellular data networks*: 24.17 Mbps.
+
+Median fixed internet download speed: 76.67 Mbps.
+
+Ookla’s data reveals that the median mobile internet download speed in Egypt increased by 2.06 Mbps (+9.3 percent) in the twelve months to January 2025.
+
+Meanwhile, the company’s data shows that the download speed of the typical fixed internet connection in Egypt increased by 12.14 Mbps (+18.8 percent) during the same period.
+
+*Note: values for mobile internet connection speeds only include data transfer via cellular mobile networks (e.g. 3G, 4G, and 5G connections), and do not represent the speed of mobile connections via WiFi where the WiFi router connects to the internet via “fixed” infrastructure.
+

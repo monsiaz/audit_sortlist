@@ -1,0 +1,11 @@
+data_dir: data/
+output_excel: reports/pr_analysis.xlsx
+csv_files:
+  pages: interne_html-sortlist.csv
+  edges: liens_entrants_tous-sortlist.csv
+  categories: interne_html_categorized.csv
+  traffic: searchconsole_traffic.csv
+  logs: COM_ALL_2025-05-05_581c699d451c950526bcfa28_logs_events.csv
+
+# Chemin vers le fichier de backlinks (utilisé par le script principal)
+backlinks_csv_path: data/backlinks_www.sortlist.com.csv 

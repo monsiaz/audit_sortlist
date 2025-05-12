@@ -29,6 +29,7 @@ venv.bak/
 
 # CSV files in data (if they are generated and not meant to be versioned)
 # sortlist-analyzer/data/*.csv
+sortlist-analyzer/data/liens_entrants_tous-sortlist.csv
 
 # Reports (if they are generated and not meant to be versioned)
 # sortlist-analyzer/reports/charts/*.png

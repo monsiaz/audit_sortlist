@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+networkx
+duckdb
+xlsxwriter
+pyyaml
+pytest 
+openpyxl
+matplotlib
+seaborn

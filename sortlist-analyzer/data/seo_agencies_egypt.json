@@ -1,0 +1,856 @@
+[
+  {
+    "name": "Reflections",
+    "verified": true,
+    "location": "Al Maadi, Egypt",
+    "tagline": "Where Innovation meets Results!",
+    "description": "Reflections is a trailblazing digital agency founded in 2011 in Al Maadi, Egypt. We deliver a full suite of digital services including SEO, social media optimization, e-commerce development, and creative production. Our mission is to provide world-class services that yield measurable results. With a team of 50 professionals, we work remotely across the globe and are committed to innovation, client satisfaction, and social responsibility.",
+    "year_founded": 2011,
+    "team_size": 50,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "services": [
+      "Web Development",
+      "App Development",
+      "E-commerce Development & Operations",
+      "Social Media Optimization",
+      "Search Engine Optimization",
+      "Traditional Marketing",
+      "Outdoor Events",
+      "Activations",
+      "Billboards",
+      "Radio Campaigns",
+      "TV Ads",
+      "Business Consultancy",
+      "Marketing Consultancy",
+      "Digital Marketing Strategies",
+      "Creative Services",
+      "Video Production",
+      "Content Production",
+      "Start-up Coaching"
+    ],
+    "projects": [
+      {
+        "name": "Raw African - Digital PR - SEO - Email Marketing",
+        "industry": "E-commerce",
+        "audience": "B2B / B2C",
+        "year": 2023,
+        "services": [
+          "Branding & Positioning",
+          "Community Management",
+          "Content Strategy",
+          "Email Marketing",
+          "SEO",
+          "Digital PR"
+        ],
+        "budget_usd": "N/A"
+      },
+      {
+        "name": "Hands Of Hope - Mobile Development",
+        "industry": "Hospitals & Healthcare",
+        "audience": "B2B / B2C",
+        "services": [
+          "Branding & Positioning",
+          "Corporate Communication",
+          "Digital Strategy",
+          "App Development"
+        ],
+        "budget_usd": "N/A"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Ahmed Maher",
+        "position": "Marketing Manager",
+        "company": "Oxygen Trading Company",
+        "rating": 3.25,
+        "comment": "Great scope of services but needs improvement in execution and communication.",
+        "recommended": true
+      },
+      {
+        "reviewer": "Lamia Ghanem",
+        "position": "CMO",
+        "company": "Wafa ali al hosany advocates and legal consultant",
+        "rating": 4.75,
+        "comment": "Very responsive and supportive SEO team. Slightly expensive.",
+        "recommended": true
+      },
+      {
+        "reviewer": "Abdelrahman Hany",
+        "position": "Marketing Team Lead",
+        "company": "Hands of Hope",
+        "rating": 4.75,
+        "comment": "Excellent project delivery. Special thanks to Nadia for her efficiency.",
+        "recommended": true
+      }
+    ],
+    "awards": [
+      {
+        "name": "Outstanding Leadership Award - Internet 2.0 Conference",
+        "date": "2022-02-28",
+        "category": "Strategy & Creativity"
+      },
+      {
+        "name": "Most Innovative SEO Marketing Agency - Egypt - MEA Business Awards",
+        "date": "2021-10-31",
+        "category": "Search Engine Optimization"
+      }
+    ],
+    "website": "https://www.reflections-ibs.com",
+    "address": "67A Misr Helwan Agriculture Rd, Maadi Al Khabiri Al Wasti, Maadi, Cairo Governorate 11743, Egypt",
+    "sortlist_member_since": 2019,
+    "portfolio_size": 19,
+    "collaborations_on_sortlist": 2,
+    "overall_rating": 4.81,
+    "number_of_reviews": 18
+  },
+  {
+    "name": "Agency B",
+    "verified": true,
+    "location": "Cairo, Egypt",
+    "tagline": "Leading Digital Agency Agency B",
+    "description": "Agency B is a results-driven digital agency founded in 2023. We help businesses grow through advanced SEO, digital strategy, and marketing innovation.",
+    "year_founded": 2023,
+    "team_size": 75,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "services": [
+      "Social Media Marketing",
+      "Branding",
+      "PPC Advertising",
+      "SEO",
+      "E-commerce Development",
+      "Digital Strategy"
+    ],
+    "projects": [
+      {
+        "name": "SEO Overhaul for E-commerce Client",
+        "industry": "E-commerce",
+        "audience": "B2C",
+        "description": "A complete SEO audit and implementation for an online fashion retailer, resulting in 40% organic traffic increase.",
+        "services": [
+          "SEO",
+          "Content Strategy",
+          "Technical SEO"
+        ],
+        "year": 2022,
+        "budget": "$3449",
+        "budget_usd": "$3449"
+      },
+      {
+        "name": "SEO + Digital PR for SaaS Platform",
+        "industry": "Tech",
+        "audience": "B2B",
+        "description": "Implemented a digital PR and SEO strategy that increased brand mentions and domain authority significantly.",
+        "services": [
+          "SEO",
+          "Digital PR",
+          "Content Production"
+        ],
+        "year": 2020,
+        "budget": "$4615",
+        "budget_usd": "$4615"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Reviewer 0",
+        "position": "Marketing Manager",
+        "company": "ClientCo 0",
+        "rating": 4.22,
+        "comment": "Excellent work and great communication throughout the project.",
+        "recommended": true
+      },
+      {
+        "reviewer": "Reviewer 1",
+        "position": "Marketing Manager",
+        "company": "ClientCo 1",
+        "rating": 4.01,
+        "comment": "Excellent work and great communication throughout the project.",
+        "recommended": true
+      }
+    ],
+    "awards": [
+      {
+        "name": "Top SEO Agency Egypt",
+        "date": "2021-05-15",
+        "category": "SEO"
+      }
+    ],
+    "website": "https://www.agencyb.eg",
+    "address": "36 Nile Street, Cairo, Egypt",
+    "sortlist_member_since": 2023,
+    "portfolio_size": 10,
+    "collaborations_on_sortlist": 2,
+    "overall_rating": 4.8,
+    "number_of_reviews": 23
+  },
+  {
+    "name": "Agency C",
+    "verified": true,
+    "location": "Cairo, Egypt",
+    "tagline": "Leading Digital Agency Agency C",
+    "description": "Agency C is a results-driven digital agency founded in 2017. We help businesses grow through advanced SEO, digital strategy, and marketing innovation.",
+    "year_founded": 2017,
+    "team_size": 75,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "services": [
+      "Video Production",
+      "Branding",
+      "Social Media Marketing",
+      "Digital Strategy",
+      "SEO",
+      "Content Production"
+    ],
+    "projects": [
+      {
+        "name": "Local SEO for Medical Practice",
+        "industry": "Healthcare",
+        "audience": "B2C",
+        "description": "Optimized local SEO for a multi-location physical therapy provider in Egypt.",
+        "services": [
+          "SEO",
+          "Google My Business Optimization",
+          "Link Building"
+        ],
+        "year": 2023,
+        "budget": "$12528",
+        "budget_usd": "$12528"
+      },
+      {
+        "name": "SEO Overhaul for E-commerce Client",
+        "industry": "E-commerce",
+        "audience": "B2C",
+        "description": "A complete SEO audit and implementation for an online fashion retailer, resulting in 40% organic traffic increase.",
+        "services": [
+          "SEO",
+          "Content Strategy",
+          "Technical SEO"
+        ],
+        "year": 2022,
+        "budget": "$4280",
+        "budget_usd": "$4280"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Reviewer 0",
+        "position": "Marketing Manager",
+        "company": "ClientCo 0",
+        "rating": 4.59,
+        "comment": "Excellent work and great communication throughout the project.",
+        "recommended": false
+      },
+      {
+        "reviewer": "Reviewer 1",
+        "position": "Marketing Manager",
+        "company": "ClientCo 1",
+        "rating": 4.04,
+        "comment": "Excellent work and great communication throughout the project.",
+        "recommended": true
+      }
+    ],
+    "awards": [
+      {
+        "name": "Top SEO Agency Egypt",
+        "date": "2023-03-15",
+        "category": "SEO"
+      }
+    ],
+    "website": "https://www.agencyc.eg",
+    "address": "58 Nile Street, Cairo, Egypt",
+    "sortlist_member_since": 2020,
+    "portfolio_size": 21,
+    "collaborations_on_sortlist": 5,
+    "overall_rating": 4.92,
+    "number_of_reviews": 17
+  },
+  {
+    "name": "Agency D",
+    "verified": true,
+    "location": "Cairo, Egypt",
+    "tagline": "Leading Digital Agency Agency D",
+    "description": "Agency D is a results-driven digital agency founded in 2008. We help businesses grow through advanced SEO, digital strategy, and marketing innovation.",
+    "year_founded": 2008,
+    "team_size": 10,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "services": [
+      "Video Production",
+      "Content Production",
+      "E-commerce Development",
+      "PPC Advertising",
+      "SEO",
+      "Web Development"
+    ],
+    "projects": [
+      {
+        "name": "SEO Overhaul for E-commerce Client",
+        "industry": "E-commerce",
+        "audience": "B2C",
+        "description": "A complete SEO audit and implementation for an online fashion retailer, resulting in 40% organic traffic increase.",
+        "services": [
+          "SEO",
+          "Content Strategy",
+          "Technical SEO"
+        ],
+        "year": 2020,
+        "budget": "$11106",
+        "budget_usd": "$11106"
+      },
+      {
+        "name": "Local SEO for Medical Practice",
+        "industry": "Healthcare",
+        "audience": "B2C",
+        "description": "Optimized local SEO for a multi-location physical therapy provider in Egypt.",
+        "services": [
+          "SEO",
+          "Google My Business Optimization",
+          "Link Building"
+        ],
+        "year": 2020,
+        "budget": "$7384",
+        "budget_usd": "$7384"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Reviewer 0",
+        "position": "Marketing Manager",
+        "company": "ClientCo 0",
+        "rating": 4.76,
+        "comment": "Excellent work and great communication throughout the project.",
+        "recommended": true
+      },
+      {
+        "reviewer": "Reviewer 1",
+        "position": "Marketing Manager",
+        "company": "ClientCo 1",
+        "rating": 4.8,
+        "comment": "Excellent work and great communication throughout the project.",
+        "recommended": false
+      }
+    ],
+    "awards": [
+      {
+        "name": "Top SEO Agency Egypt",
+        "date": "2024-09-15",
+        "category": "SEO"
+      }
+    ],
+    "website": "https://www.agencyd.eg",
+    "address": "72 Nile Street, Cairo, Egypt",
+    "sortlist_member_since": 2013,
+    "portfolio_size": 15,
+    "collaborations_on_sortlist": 2,
+    "overall_rating": 3.57,
+    "number_of_reviews": 15
+  },
+  {
+    "name": "Agency E",
+    "verified": true,
+    "location": "Cairo, Egypt",
+    "tagline": "Leading Digital Agency Agency E",
+    "description": "Agency E is a results-driven digital agency founded in 2022. We help businesses grow through advanced SEO, digital strategy, and marketing innovation.",
+    "year_founded": 2022,
+    "team_size": 25,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "services": [
+      "Digital Strategy",
+      "Video Production",
+      "Social Media Marketing",
+      "Web Development",
+      "SEO",
+      "PPC Advertising"
+    ],
+    "projects": [
+      {
+        "name": "Local SEO for Medical Practice",
+        "industry": "Healthcare",
+        "audience": "B2C",
+        "description": "Optimized local SEO for a multi-location physical therapy provider in Egypt.",
+        "services": [
+          "SEO",
+          "Google My Business Optimization",
+          "Link Building"
+        ],
+        "year": 2020,
+        "budget": "$3714",
+        "budget_usd": "$3714"
+      },
+      {
+        "name": "SEO + Digital PR for SaaS Platform",
+        "industry": "Tech",
+        "audience": "B2B",
+        "description": "Implemented a digital PR and SEO strategy that increased brand mentions and domain authority significantly.",
+        "services": [
+          "SEO",
+          "Digital PR",
+          "Content Production"
+        ],
+        "year": 2021,
+        "budget": "$5757",
+        "budget_usd": "$5757"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Reviewer 0",
+        "position": "Marketing Manager",
+        "company": "ClientCo 0",
+        "rating": 4.92,
+        "comment": "Excellent work and great communication throughout the project.",
+        "recommended": true
+      },
+      {
+        "reviewer": "Reviewer 1",
+        "position": "Marketing Manager",
+        "company": "ClientCo 1",
+        "rating": 4.03,
+        "comment": "Excellent work and great communication throughout the project.",
+        "recommended": false
+      }
+    ],
+    "awards": [
+      {
+        "name": "Top SEO Agency Egypt",
+        "date": "2023-04-15",
+        "category": "SEO"
+      }
+    ],
+    "website": "https://www.agencye.eg",
+    "address": "70 Nile Street, Cairo, Egypt",
+    "sortlist_member_since": 2022,
+    "portfolio_size": 13,
+    "collaborations_on_sortlist": 1,
+    "overall_rating": 3.62,
+    "number_of_reviews": 18
+  },
+  {
+    "name": "Agency F",
+    "verified": true,
+    "location": "Cairo, Egypt",
+    "tagline": "Leading Digital Agency Agency F",
+    "description": "Agency F is a results-driven digital agency founded in 2009. We help businesses grow through advanced SEO, digital strategy, and marketing innovation.",
+    "year_founded": 2009,
+    "team_size": 75,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "services": [
+      "Web Development",
+      "PPC Advertising",
+      "Branding",
+      "Video Production",
+      "App Development",
+      "Digital Strategy"
+    ],
+    "projects": [
+      {
+        "name": "SEO + Digital PR for SaaS Platform",
+        "industry": "Tech",
+        "audience": "B2B",
+        "description": "Implemented a digital PR and SEO strategy that increased brand mentions and domain authority significantly.",
+        "services": [
+          "SEO",
+          "Digital PR",
+          "Content Production"
+        ],
+        "year": 2020,
+        "budget": "$10917",
+        "budget_usd": "$10917"
+      },
+      {
+        "name": "Local SEO for Medical Practice",
+        "industry": "Healthcare",
+        "audience": "B2C",
+        "description": "Optimized local SEO for a multi-location physical therapy provider in Egypt.",
+        "services": [
+          "SEO",
+          "Google My Business Optimization",
+          "Link Building"
+        ],
+        "year": 2021,
+        "budget": "$3297",
+        "budget_usd": "$3297"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Reviewer 0",
+        "position": "Marketing Manager",
+        "company": "ClientCo 0",
+        "rating": 4.14,
+        "comment": "Excellent work and great communication throughout the project.",
+        "recommended": false
+      },
+      {
+        "reviewer": "Reviewer 1",
+        "position": "Marketing Manager",
+        "company": "ClientCo 1",
+        "rating": 4.95,
+        "comment": "Excellent work and great communication throughout the project.",
+        "recommended": true
+      }
+    ],
+    "awards": [
+      {
+        "name": "Top SEO Agency Egypt",
+        "date": "2021-09-15",
+        "category": "SEO"
+      }
+    ],
+    "website": "https://www.agencyf.eg",
+    "address": "24 Nile Street, Cairo, Egypt",
+    "sortlist_member_since": 2014,
+    "portfolio_size": 15,
+    "collaborations_on_sortlist": 3,
+    "overall_rating": 4.32,
+    "number_of_reviews": 14
+  },
+  {
+    "name": "Agency G",
+    "verified": true,
+    "location": "Cairo, Egypt",
+    "tagline": "Leading Digital Agency Agency G",
+    "description": "Agency G is a results-driven digital agency founded in 2010. We help businesses grow through advanced SEO, digital strategy, and marketing innovation.",
+    "year_founded": 2010,
+    "team_size": 75,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "services": [
+      "Web Development",
+      "E-commerce Development",
+      "App Development",
+      "Digital Strategy",
+      "Branding",
+      "PPC Advertising"
+    ],
+    "projects": [
+      {
+        "name": "SEO Overhaul for E-commerce Client",
+        "industry": "E-commerce",
+        "audience": "B2C",
+        "description": "A complete SEO audit and implementation for an online fashion retailer, resulting in 40% organic traffic increase.",
+        "services": [
+          "SEO",
+          "Content Strategy",
+          "Technical SEO"
+        ],
+        "year": 2024,
+        "budget": "$4925",
+        "budget_usd": "$4925"
+      },
+      {
+        "name": "Local SEO for Medical Practice",
+        "industry": "Healthcare",
+        "audience": "B2C",
+        "description": "Optimized local SEO for a multi-location physical therapy provider in Egypt.",
+        "services": [
+          "SEO",
+          "Google My Business Optimization",
+          "Link Building"
+        ],
+        "year": 2023,
+        "budget": "$3317",
+        "budget_usd": "$3317"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Reviewer 0",
+        "position": "Marketing Manager",
+        "company": "ClientCo 0",
+        "rating": 4.6,
+        "comment": "Excellent work and great communication throughout the project.",
+        "recommended": false
+      },
+      {
+        "reviewer": "Reviewer 1",
+        "position": "Marketing Manager",
+        "company": "ClientCo 1",
+        "rating": 3.97,
+        "comment": "Excellent work and great communication throughout the project.",
+        "recommended": true
+      }
+    ],
+    "awards": [
+      {
+        "name": "Top SEO Agency Egypt",
+        "date": "2022-01-15",
+        "category": "SEO"
+      }
+    ],
+    "website": "https://www.agencyg.eg",
+    "address": "82 Nile Street, Cairo, Egypt",
+    "sortlist_member_since": 2015,
+    "portfolio_size": 23,
+    "collaborations_on_sortlist": 4,
+    "overall_rating": 4.5,
+    "number_of_reviews": 6
+  },
+  {
+    "name": "Agency H",
+    "verified": true,
+    "location": "Cairo, Egypt",
+    "tagline": "Leading Digital Agency Agency H",
+    "description": "Agency H is a results-driven digital agency founded in 2015. We help businesses grow through advanced SEO, digital strategy, and marketing innovation.",
+    "year_founded": 2015,
+    "team_size": 75,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "services": [
+      "PPC Advertising",
+      "App Development",
+      "Digital Strategy",
+      "Video Production",
+      "E-commerce Development",
+      "Branding"
+    ],
+    "projects": [
+      {
+        "name": "SEO Overhaul for E-commerce Client",
+        "industry": "E-commerce",
+        "audience": "B2C",
+        "description": "A complete SEO audit and implementation for an online fashion retailer, resulting in 40% organic traffic increase.",
+        "services": [
+          "SEO",
+          "Content Strategy",
+          "Technical SEO"
+        ],
+        "year": 2021,
+        "budget": "$14806",
+        "budget_usd": "$14806"
+      },
+      {
+        "name": "Local SEO for Medical Practice",
+        "industry": "Healthcare",
+        "audience": "B2C",
+        "description": "Optimized local SEO for a multi-location physical therapy provider in Egypt.",
+        "services": [
+          "SEO",
+          "Google My Business Optimization",
+          "Link Building"
+        ],
+        "year": 2022,
+        "budget": "$6177",
+        "budget_usd": "$6177"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Reviewer 0",
+        "position": "Marketing Manager",
+        "company": "ClientCo 0",
+        "rating": 4.05,
+        "comment": "Excellent work and great communication throughout the project.",
+        "recommended": true
+      },
+      {
+        "reviewer": "Reviewer 1",
+        "position": "Marketing Manager",
+        "company": "ClientCo 1",
+        "rating": 4.88,
+        "comment": "Excellent work and great communication throughout the project.",
+        "recommended": true
+      }
+    ],
+    "awards": [
+      {
+        "name": "Top SEO Agency Egypt",
+        "date": "2024-04-15",
+        "category": "SEO"
+      }
+    ],
+    "website": "https://www.agencyh.eg",
+    "address": "27 Nile Street, Cairo, Egypt",
+    "sortlist_member_since": 2021,
+    "portfolio_size": 14,
+    "collaborations_on_sortlist": 5,
+    "overall_rating": 4.36,
+    "number_of_reviews": 8
+  },
+  {
+    "name": "Agency I",
+    "verified": true,
+    "location": "Cairo, Egypt",
+    "tagline": "Leading Digital Agency Agency I",
+    "description": "Agency I is a results-driven digital agency founded in 2020. We help businesses grow through advanced SEO, digital strategy, and marketing innovation.",
+    "year_founded": 2020,
+    "team_size": 75,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "services": [
+      "E-commerce Development",
+      "Branding",
+      "PPC Advertising",
+      "Digital Strategy",
+      "Content Production",
+      "Web Development"
+    ],
+    "projects": [
+      {
+        "name": "SEO + Digital PR for SaaS Platform",
+        "industry": "Tech",
+        "audience": "B2B",
+        "description": "Implemented a digital PR and SEO strategy that increased brand mentions and domain authority significantly.",
+        "services": [
+          "SEO",
+          "Digital PR",
+          "Content Production"
+        ],
+        "year": 2023,
+        "budget": "$11499",
+        "budget_usd": "$11499"
+      },
+      {
+        "name": "Local SEO for Medical Practice",
+        "industry": "Healthcare",
+        "audience": "B2C",
+        "description": "Optimized local SEO for a multi-location physical therapy provider in Egypt.",
+        "services": [
+          "SEO",
+          "Google My Business Optimization",
+          "Link Building"
+        ],
+        "year": 2020,
+        "budget": "$13947",
+        "budget_usd": "$13947"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Reviewer 0",
+        "position": "Marketing Manager",
+        "company": "ClientCo 0",
+        "rating": 4.45,
+        "comment": "Excellent work and great communication throughout the project.",
+        "recommended": true
+      },
+      {
+        "reviewer": "Reviewer 1",
+        "position": "Marketing Manager",
+        "company": "ClientCo 1",
+        "rating": 3.77,
+        "comment": "Excellent work and great communication throughout the project.",
+        "recommended": true
+      }
+    ],
+    "awards": [
+      {
+        "name": "Top SEO Agency Egypt",
+        "date": "2023-02-15",
+        "category": "SEO"
+      }
+    ],
+    "website": "https://www.agencyi.eg",
+    "address": "13 Nile Street, Cairo, Egypt",
+    "sortlist_member_since": 2020,
+    "portfolio_size": 16,
+    "collaborations_on_sortlist": 1,
+    "overall_rating": 3.96,
+    "number_of_reviews": 6
+  },
+  {
+    "name": "Agency J",
+    "verified": true,
+    "location": "Cairo, Egypt",
+    "tagline": "Leading Digital Agency Agency J",
+    "description": "Agency J is a results-driven digital agency founded in 2017. We help businesses grow through advanced SEO, digital strategy, and marketing innovation.",
+    "year_founded": 2017,
+    "team_size": 75,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "services": [
+      "PPC Advertising",
+      "Digital Strategy",
+      "App Development",
+      "Social Media Marketing",
+      "Video Production",
+      "SEO"
+    ],
+    "projects": [
+      {
+        "name": "Local SEO for Medical Practice",
+        "industry": "Healthcare",
+        "audience": "B2C",
+        "description": "Optimized local SEO for a multi-location physical therapy provider in Egypt.",
+        "services": [
+          "SEO",
+          "Google My Business Optimization",
+          "Link Building"
+        ],
+        "year": 2022,
+        "budget": "$12322",
+        "budget_usd": "$12322"
+      },
+      {
+        "name": "SEO + Digital PR for SaaS Platform",
+        "industry": "Tech",
+        "audience": "B2B",
+        "description": "Implemented a digital PR and SEO strategy that increased brand mentions and domain authority significantly.",
+        "services": [
+          "SEO",
+          "Digital PR",
+          "Content Production"
+        ],
+        "year": 2023,
+        "budget": "$8487",
+        "budget_usd": "$8487"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewer": "Reviewer 0",
+        "position": "Marketing Manager",
+        "company": "ClientCo 0",
+        "rating": 4.73,
+        "comment": "Excellent work and great communication throughout the project.",
+        "recommended": false
+      },
+      {
+        "reviewer": "Reviewer 1",
+        "position": "Marketing Manager",
+        "company": "ClientCo 1",
+        "rating": 3.75,
+        "comment": "Excellent work and great communication throughout the project.",
+        "recommended": false
+      }
+    ],
+    "awards": [
+      {
+        "name": "Top SEO Agency Egypt",
+        "date": "2023-03-15",
+        "category": "SEO"
+      }
+    ],
+    "website": "https://www.agencyj.eg",
+    "address": "82 Nile Street, Cairo, Egypt",
+    "sortlist_member_since": 2022,
+    "portfolio_size": 25,
+    "collaborations_on_sortlist": 4,
+    "overall_rating": 4.96,
+    "number_of_reviews": 21
+  }
+]
