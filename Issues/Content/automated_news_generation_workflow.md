@@ -13,10 +13,10 @@ This proposal outlines an automated workflow designed to generate multiple topic
     *   **Current Limitation**: Only fetches snippets, not full content, and relies on SerpAPI. Relevance check is basic (Yes/No).
 
 2.  **`Crawl/Scripts/news_blog_article_generator.py`**:
-    *   **Functionality**: Takes a *single*, pre-existing HTML file (`/Volumes/T7/sortlist/sortlist-analyzer/data/article_main_example.html`) as its source input.
+    *   **Functionality**: Takes a *single*, pre-existing HTML file (e.g., [`/Volumes/T7/sortlist/sortlist-analyzer/data/article_main_example.html`](../../sortlist-analyzer/data/article_main_example.html)) as its source input.
     *   Injects the *entire HTML content* of this source file into a detailed prompt.
     *   Uses an OpenAI model (`o3-2025-04-16` currently, configured via the new client API) to deeply rewrite and enrich the source content into a new press article in HTML format, following strict constraints (topic adherence, data sourcing, formatting).
-    *   Saves the generated article to `/Volumes/T7/sortlist/sortlist-analyzer/data/article_main_rewritten.html`.
+    *   Saves the generated article to a new file (e.g., [`/Volumes/T7/sortlist/sortlist-analyzer/data/article_main_rewritten.html`](../../sortlist-analyzer/data/article_main_rewritten.html)).
     *   **Current Limitation**: Processes only *one* static input file per execution, requiring manual preparation of this file.
 
 ## Current workflow & limitations
