@@ -1,3 +1,5 @@
-*.csv filter=lfs diff=lfs merge=lfs -text
-*.xlsx filter=lfs diff=lfs merge=lfs -text
-*.pdf filter=lfs diff=lfs merge=lfs -text
+sortlist-analyzer/data/interne_html-sortlist.csv filter=lfs diff=lfs merge=lfs -text
+sortlist-analyzer/reports/pr_analysis.xlsx filter=lfs diff=lfs merge=lfs -text
+sortlist-analyzer/data/backlinks_www.sortlist.com.csv filter=lfs diff=lfs merge=lfs -text
+sortlist-analyzer/data/Pagination[[:space:]]V2.pdf filter=lfs diff=lfs merge=lfs -text
+sortlist-analyzer/data/COM_ALL_2025-05-05_581c699d451c950526bcfa28_logs_events.csv filter=lfs diff=lfs merge=lfs -text

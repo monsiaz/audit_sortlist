@@ -1,3 +1,249 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bbe0052a546cc459d12a5485eba76c0906db04d33749c9caea3b0e8d84eebb56
-size 30970
+URL,Category,Mobile_Performance_Score,Mobile_FCP,Mobile_LCP,Mobile_SI,Mobile_TTI,Mobile_TBT,Mobile_CLS,Desktop_Performance_Score,Desktop_FCP,Desktop_LCP,Desktop_SI,Desktop_TTI,Desktop_TBT,Desktop_CLS
+http://sortlist.com/,HomePage,73,2175,3211,2632,19631,726,0,69,588,1584,772,4806,688,0
+http://www.sortlist.com/,HomePage,37,6029,17582,8302,19051,863,0,68,518,1460,825,4866,826,0
+https://sortlist.com/,HomePage,39,2346,8662,5149,19677,1174,0,64,659,1642,1060,5093,1042,0
+https://www.sortlist.com/,HomePage,41,1563,7545,5179,19243,1272,0,72,409,1162,691,4641,693,0
+https://www.sortlist.com/s/python-development/miami-fl-us,Landing,87,1539,2101,4257,7731,395,0,84,390,561,718,1983,378,0
+https://www.sortlist.com/s/brand-design/berlin-de,Landing,74,1535,2101,5585,7756,823,0,70,390,521,1838,2769,786,0
+https://www.sortlist.com/s/banner-advertising/brussels-brussels-be,Landing,69,1683,2776,4534,7941,1107,0,69,396,561,1612,2606,997,0
+https://www.sortlist.com/i/s/facebook-advertising/germany-de,Landing,70,1677,2251,7931,10180,839,0,63,406,521,3168,3104,1314,0
+https://www.sortlist.com/s/net-development/san-diego-ca-us,Landing,73,1630,2101,3592,8049,1222,0,73,434,524,1291,2464,736,0
+https://www.sortlist.com/s/augmented-reality/belgium-be,Landing,70,1689,2101,4825,8428,1356,0,85,429,581,786,2327,355,0
+https://www.sortlist.com/s/chatgpt-consulting/stuttgart-de,Landing,78,1528,2327,4499,8660,709,0,71,424,581,710,3063,1291,0
+https://www.sortlist.com/s/public-relations/fort-worth-tx-us,Landing,73,1538,2626,4690,7987,852,0,75,394,561,1708,2098,554,0
+https://www.sortlist.com/de/voice-over,Landing,81,1682,2253,3877,8472,608,0,70,395,522,1649,2622,888,0
+https://www.sortlist.com/s/product-design/geneva-ch,Landing,92,1367,2101,4262,7831,230,0,89,342,600,1637,1674,230,0
+https://www.sortlist.com/s/traffic-acquisition/germany-de,Landing,76,1843,2401,5986,8710,589,0,71,432,501,1659,2786,781,0
+https://www.sortlist.com/s/crm-app-development/colorado-co-us,Landing,78,1544,2101,4369,8080,739,0,67,449,1491,1335,2353,873,0
+https://www.sortlist.com/s/javascript-development/illinois-il-us,Landing,76,1687,2251,4583,8443,806,0,71,388,521,1504,2462,880,0
+https://www.sortlist.com/s/mongodb-development/abu-dhabi-ae,Landing,93,1395,2101,3283,7086,240,0,85,366,607,741,1773,336,0
+https://www.sortlist.com/s/angular-development/egypt-eg,Landing,82,1589,3197,4518,7918,320,0,71,392,521,1524,2569,825,0
+https://www.sortlist.com/copywriting/cairo-giza-governorate-eg,Landing,76,1583,2101,3619,8060,949,0,74,407,481,741,2225,756,0
+https://www.sortlist.com/s/international-marketing/chicago-il-us,Landing,75,1696,2251,4111,8206,881,0,75,433,521,646,2248,641,0
+https://www.sortlist.com/s/corporate-identity/algeria-dz,Landing,82,1529,2401,3882,8150,531,0,71,463,663,853,2779,980,0
+https://www.sortlist.com/s/seo-audit/nigeria-ng,Landing,79,1527,2101,3925,7291,742,0,81,381,521,2084,1874,334,0
+https://www.sortlist.com/s/local-seo/philadelphia-pa-us,Landing,80,1748,2739,3969,8003,522,0,71,433,561,1473,2437,808,0
+https://www.sortlist.com/s/visual-identity/uttar-pradesh-up-in,Landing,83,1528,1951,4500,7632,524,0,70,400,521,1739,2492,809,0
+https://www.sortlist.com/s/php-development/stuttgart-de,Landing,81,1951,2401,3624,8550,544,0,70,422,521,1575,2790,986,0
+https://www.sortlist.com/online-ad/noida-up-in,Landing,78,1607,2101,3503,7576,799,0,77,388,608,750,2033,554,0
+https://www.sortlist.com/s/b2b-marketing/rome-lazio-it,Landing,87,1724,2551,4705,9831,299,0,70,395,521,1651,2836,891,0
+https://www.sortlist.com/s/billboard-advertising/geneva-ch,Landing,85,1455,2326,3734,9130,460,0,95,364,592,742,2006,176,0
+https://www.sortlist.com/s/crm-consulting/florida-fl-us,Landing,80,1673,2401,4304,8388,566,0,75,428,481,745,2397,664,0
+https://www.sortlist.com/s/international-marketing/raleigh-nc-us,Landing,81,1533,2102,5487,8208,501,0,81,415,619,1312,1848,411,0
+https://www.sortlist.com/email-marketing/virginia-beach-va-us,Landing,68,1951,3053,3569,8630,1188,0,90,401,583,682,1825,264,0
+https://www.sortlist.com/s/machine-learning/illinois-il-us,Landing,76,1679,2551,4920,7660,659,0,89,377,522,1973,1832,228,0
+https://www.sortlist.com/s/sanity-testing/texas-tx-us,Landing,84,1382,1801,4094,7877,516,0,75,351,461,1752,2091,530,0
+https://www.sortlist.com/l/montego-bay-st-james-parish-jm,Landing Location,86,1383,2101,3196,7592,467,0,84,369,522,970,1790,353,0
+https://www.sortlist.com/l/milwaukee-wi-us,Landing Location,77,1467,1951,3698,7560,888,0,82,373,586,716,1979,414,0
+https://www.sortlist.com/l/riverside-ca-us,Landing Location,73,1545,2101,5318,7640,960,0,70,353,443,2536,2135,608,0
+https://www.sortlist.com/l/denmark-dk,Landing Location,88,1586,2101,4065,6988,356,0,83,413,622,834,1954,393,0
+https://www.sortlist.com/l/louisville-ky-us,Landing Location,93,1372,1951,4427,6804,215,0,72,402,481,634,2411,928,0
+https://www.sortlist.com/l/mongolia-mn,Landing Location,84,1536,2101,3814,7304,518,0,81,358,1313,1137,1707,354,0
+https://www.sortlist.com/l/santa-ana-ca-us,Landing Location,77,1693,2476,4000,7755,712,0,70,434,581,1424,2503,977,0
+https://www.sortlist.com/l/new-orleans-la-us,Landing Location,79,1442,2176,3539,7583,734,0,86,384,729,854,1810,312,0
+https://www.sortlist.com/l/central-jakarta-special-capital-region-of-jakarta-id,Landing Location,79,1529,2251,4956,8244,625,0,72,360,441,1611,2264,697,0
+https://www.sortlist.com/l/tirana-al,Landing Location,81,1377,1951,3729,7252,673,0,72,405,481,645,2448,965,0
+https://www.sortlist.com/l/baku,Landing Location,76,1382,2476,3737,7970,854,0,76,405,622,1453,2076,528,0
+https://www.sortlist.com/l/aurangabad-in,Landing Location,82,1390,1951,4186,7501,566,0,69,349,481,1928,2328,861,0
+https://www.sortlist.com/l/kozhikode-in,Landing Location,74,1385,1952,9049,7556,672,0,68,357,481,2538,2263,740,0
+https://www.sortlist.com/l/kampala-ug,Landing Location,71,1555,2401,8534,7630,750,0,66,348,441,2668,2615,921,0
+https://www.sortlist.com/l/hawthorn-vic-au,Landing Location,75,1522,2101,7678,7801,635,0,71,461,561,772,2588,1010,0
+https://www.sortlist.com/l/port-harcourt-rivers-ng,Landing Location,79,1453,1951,3413,7342,799,0,74,391,614,770,2279,716,0
+https://www.sortlist.com/l/klang-selangor-my,Landing Location,89,1518,2101,3974,7767,326,0,79,340,481,2254,2033,371,0
+https://www.sortlist.com/l/monaco-ville-mc,Landing Location,API Error,API Error,API Error,API Error,API Error,API Error,API Error,77,438,581,862,2125,581,0
+https://www.sortlist.com/l/ruiru-ke,Landing Location,86,1417,1951,3619,7357,448,0,79,347,441,1923,1988,399,0
+https://www.sortlist.com/l/kabul-kabul,Landing Location,87,1383,1951,3967,7428,396,0,79,348,441,1557,2023,437,0
+https://www.sortlist.com/l/amritsar,Landing Location,84,1456,1951,3019,7758,563,0,78,394,541,1371,2008,482,0
+https://www.sortlist.com/l/cordoba-ar,Landing Location,90,1416,1951,3522,7018,352,0,79,340,461,1663,1830,428,0
+https://www.sortlist.com/l/izmir-tr,Landing Location,83,1801,2401,4022,7528,463,0,78,401,789,780,2194,521,0
+https://www.sortlist.com/l/barangaroo-nsw-au,Landing Location,77,1530,2101,3681,7558,835,0,72,346,481,1620,2156,715,0
+https://www.sortlist.com/l/taguig-ncr-ph,Landing Location,76,1546,2101,4488,7567,865,0,79,406,481,824,1968,480,0
+https://www.sortlist.com/l/tashkent-uz,Landing Location,87,1436,1951,3957,7775,397,0,72,426,581,1265,2284,792,0
+https://www.sortlist.com/l/limassol-cy,Landing Location,84,1439,1951,3674,8309,534,0,68,418,1424,1237,2376,811,0
+https://www.sortlist.com/l/chennai-in,Landing Location,90,1374,1951,4777,6812,268,0,90,401,608,843,1793,250,0
+https://www.sortlist.com/l/larnaca-cy,Landing Location,81,1387,1951,4645,7740,597,0,74,399,624,1442,2610,627,0
+https://www.sortlist.com/l/shinjuku-tokyo-jp,Landing Location,48,1681,6668,4070,8681,1531,0,77,374,630,1364,2021,500,0
+https://www.sortlist.com/mendix-development,Service Landing,73,1693,2401,5293,8898,836,0,74,386,441,1475,2410,597,0
+https://www.sortlist.com/community-building,Service Landing,72,1690,2551,5578,11137,834,0,83,416,627,873,2379,383,0
+https://www.sortlist.com/urban-design,Service Landing,78,1688,2251,4594,10127,662,0,74,385,481,1572,2547,623,0
+https://www.sortlist.com/offshore-software-development,Service Landing,77,1680,2255,4773,8966,724,0,88,441,769,1090,2247,278,0
+https://www.sortlist.com/casting,Service Landing,75,1542,1951,5712,8154,789,0,69,388,561,1922,2733,899,0
+https://www.sortlist.com/arcore-development,Service Landing,74,1543,2401,4218,8803,898,0,65,400,521,2357,2967,1241,0
+https://www.sortlist.com/google-analytics,Service Landing,70,1544,2251,5470,7627,1112,0,67,389,521,2122,2716,1124,0
+https://www.sortlist.com/graphic-chart-design,Service Landing,78,1822,2401,5334,7450,558,0,73,462,621,697,2299,768,0
+https://www.sortlist.com/distribution,Service Landing,70,2101,2551,5550,11050,904,0,73,458,581,852,2876,807,0
+http://www.sortlist.com/innovation/,Service Landing,57,2175,3034,9973,10064,1460,0,64,563,602,2477,3588,1590,0
+https://www.sortlist.com/xing,Service Landing,74,1697,2476,4136,8570,863,0,87,424,641,871,1986,307,0
+https://www.sortlist.com/ux-design,Service Landing,76,1677,2251,8078,9624,546,0,72,382,481,2259,2725,582,0
+https://www.sortlist.com/medusa-ecommerce-development,Service Landing,76,1533,2101,3880,7869,878,0,70,449,521,704,2939,1472,0
+https://www.sortlist.com/lead-management,Service Landing,81,1672,2251,5528,9750,504,0,67,393,541,2183,3096,1111,0
+https://www.sortlist.com/appy-pie-development,Service Landing,75,1699,2401,5064,8505,771,0,75,419,442,776,2250,634,0
+http://www.sortlist.com/socical-media/,Service Landing,95,1727,2434,2684,7804,150,0,99,457,720,674,1619,88,0
+https://www.sortlist.com/tableau-consulting,Service Landing,73,1533,2101,4196,7820,1078,0,72,424,522,717,2728,993,0
+https://www.sortlist.com/amp-development,Service Landing,68,1685,2101,5923,8368,1346,0,66,399,481,2141,3051,1444,0
+https://www.sortlist.com/google-ads,Service Landing,74,1694,2251,4498,10332,914,0,72,450,486,866,2876,978,0
+https://www.sortlist.com/sound-effects,Service Landing,72,1699,2402,5631,10422,877,0,68,388,521,2170,2748,857,0
+https://www.sortlist.com/cakephp-development,Service Landing,66,1689,2101,5462,10552,1848,0,67,387,504,2538,2644,834,0
+https://www.sortlist.com/customer-relationship-management,Service Landing,77,1673,2251,5098,8364,671,0,71,433,481,755,2741,1050,0
+https://www.sortlist.com/microstrategy-consulting,Service Landing,73,2101,2701,3985,8421,825,0,70,387,561,1505,2586,899,0
+https://www.sortlist.com/theatre-lighting,Service Landing,70,1687,2252,6609,10060,994,0,73,422,561,735,2904,844,0
+https://www.sortlist.com/product-marketing,Service Landing,73,1694,2101,8630,8161,672,0,75,385,541,1537,2361,569,0
+https://www.sortlist.com/visual-communication,Service Landing,79,1821,2401,5747,8127,494,0,74,467,565,738,2795,733,0
+https://www.sortlist.com/commercial-video-production,Service Landing,73,1538,2101,5217,7658,1000,0,70,431,521,1421,2793,1023,0
+https://www.sortlist.com/brand-awareness,Service Landing,70,1691,2101,6286,10346,1025,0,73,468,480,773,2810,825,0
+http://www.sortlist.com/copywriting,Service Landing,63,2164,2731,6310,8840,1351,0,68,535,671,2495,2766,756,0
+https://www.sortlist.com/interactive-marketing,Service Landing,73,1838,2101,4527,7961,1058,0,77,420,642,1847,2556,460,0
+https://www.sortlist.com/project/new?&,Project,51,1272,7621,3129,18838,1184,0,60,494,2063,861,5537,2247,0
+https://www.sortlist.com/project/new?autoload=true,Project,49,1272,10193,3643,18528,1310,0,56,356,2725,934,4326,1098,0
+https://www.sortlist.com/project/new,Project,80,1243,2851,2730,17814,613,0,62,372,1963,723,4553,1091,0
+https://www.sortlist.com/blog/generate-leads/,Blog,69,1379,14367,3671,19682,250,0,68,843,3206,3404,3884,190,0
+https://www.sortlist.com/blog/find-micro-influencers/,Blog,57,5578,14398,6141,20604,207,0,52,1109,3040,1394,5221,505,0
+https://www.sortlist.com/blog/communication-agency-price/,Blog,59,4201,17417,5471,18805,220,0,78,1022,2865,2003,3720,110,0
+https://www.sortlist.com/blog/author/emmareelozada/page/4/,Blog,66,3003,13757,4511,18258,144,0,83,1093,2112,1093,3902,175,0
+https://www.sortlist.com/blog/creative-automation/,Blog,49,5581,16392,13546,24076,312,0,55,1109,4410,3808,5637,207,0
+https://www.sortlist.com/blog/cats-and-dogs-for-business/,Blog,62,3613,16583,6247,16740,0,0,80,861,3305,1389,3339,0,0
+https://www.sortlist.com/blog/marketing-survey-smbs-budgets-trends-inspiration/,Blog,60,6042,16132,6293,16305,6,0,81,958,3047,1191,3075,0,0
+https://www.sortlist.com/blog/lifestyle-brand/,Blog,26,5584,40613,16936,54330,3062,0,28,1065,7490,4626,11049,1742,0
+https://www.sortlist.com/blog/downward-communication/,Blog,50,4232,13316,5715,22109,480,0,76,942,3641,1578,4331,110,0
+https://www.sortlist.com/blog/how-to-use-google-my-business/),Blog,64,2003,13156,5111,17839,281,0,76,1133,2862,2240,3543,125,0
+https://www.sortlist.com/blog/chatbots-improve-brand-image/,Blog,50,3003,16760,7375,26206,500,0,63,1091,3518,2391,4786,275,0
+https://www.sortlist.com/blog/performance-coach/,Blog,50,5263,10930,5424,20368,450,0,75,1091,3445,1439,3756,152,0
+https://www.sortlist.com/blog/ecommerce-tips/,Blog,59,4680,15961,5130,20604,207,0,78,998,3117,1264,3919,143,0
+https://www.sortlist.com/blog/rebranding-process/,Blog,36,5587,30765,15017,42675,814,0,46,1066,5192,2899,7492,361,0
+https://www.sortlist.com/blog/product-photography-pricing/,Blog,54,5126,22816,13818,25919,160,0,66,1091,3962,3571,5193,135,0
+https://www.sortlist.com/blog/author/gauravroy/page/3/,Blog,57,3302,15359,4616,19807,366,0,83,946,2120,1550,4033,159,0
+https://www.sortlist.com/blog/dynamic-website/,Blog,53,4682,13700,5669,21294,379,0,65,949,3764,2182,4676,151,0
+https://www.sortlist.com/blog/restaurant-business-plan/,Blog,53,4682,14181,7037,19197,294,0,71,950,2097,1841,4411,330,0
+https://www.sortlist.com/blog/virtual-pop-up-shop/,Blog,31,5590,32128,15737,44178,1328,0,39,722,5574,3333,8396,537,0
+https://www.sortlist.com/blog/market-based-pricing/,Blog,56,5580,15859,5785,19575,244,0,53,762,3608,2202,4804,382,0
+https://www.sortlist.com/blog/how-to-hire-an-agency/,Blog,48,5863,8719,5890,19292,514,0,73,1174,3124,1854,3672,172,0
+https://www.sortlist.com/blog/web-programmer/,Blog,50,5263,11321,6448,18939,403,0,73,1091,3451,1941,3797,148,0
+https://www.sortlist.com/blog/social-media-small-business-marketing/,Blog,63,3613,17258,6195,17453,10,0,74,957,3398,2823,3437,0,0
+https://www.sortlist.com/blog/voice-search-development/,Blog,53,5266,16780,7335,19687,271,0,56,1173,2896,2585,4219,331,0
+https://www.sortlist.com/blog/corporate-storytelling/,Blog,45,6164,16169,6868,25875,558,0,64,1253,2790,2526,4846,295,0
+https://www.sortlist.com/blog/ai-social-media/,Blog,58,5263,14449,5263,19446,206,0,51,1080,2741,2087,4629,521,0
+https://www.sortlist.com/blog/what-to-expect-agency-roadmap/,Blog,56,3002,15138,8981,19972,262,0,49,1114,3013,2282,4878,506,0
+https://www.sortlist.com/blog/augmented-reality-marketing/,Blog,65,3302,14476,5110,19365,102,0,75,381,3785,1866,4221,122,0
+https://www.sortlist.com/blog/how-to-make-a-chatbot/,Blog,58,3914,16173,8105,20417,138,0,62,723,3025,2293,4770,253,0
+https://www.sortlist.com/blog/how-to-create-a-poll-on-facebook/,Blog,29,5251,9417,7242,21970,4430,0,77,1109,3021,1109,3855,154,0
+https://www.sortlist.com/de/agency/internetagentur-webwandel,Other,48,1417,14566,4784,15158,1120,0,53,381,2575,2641,4289,747,0
+https://www.sortlist.com/de/agency/sevendays,Other,44,1533,12596,7125,17300,1174,0,60,444,1794,1852,5264,1597,0
+https://www.sortlist.com/de/agency/gorilla-app,Other,43,1396,7156,7101,16800,1564,0,57,401,1989,2116,5120,1383,0
+https://www.sortlist.com/de/agency/williams-gauld,Other,53,1407,6504,4242,15342,1008,0,59,363,1792,2015,5302,1951,0
+https://www.sortlist.com/de/agency/calltech,Other,53,1410,6768,2614,15219,1122,0,70,425,616,788,5082,1653,0
+https://www.sortlist.com/de/agency/omeg-agency,Other,41,1801,8538,6140,16034,1864,0,70,401,1240,720,4234,816,0
+https://www.sortlist.com/de/agency/figallo-agency,Other,44,1615,7844,4627,17200,2346,0,69,424,854,1088,5377,1710,0
+https://www.sortlist.com/de/agency/prime-marketing-3,Other,51,1401,6837,4486,15821,1097,0,50,407,2887,2133,4866,1582,0
+https://www.sortlist.com/de/agency/digitalwert-gmbh,Other,48,1425,6376,2924,16066,2372,0,64,412,1526,1337,5463,1960,0
+https://www.sortlist.com/de/agency/eckstein-design,Other,55,1371,7483,5827,15380,620,0,65,378,1649,893,4519,957,0
+https://www.sortlist.com/de/agency/sps-gmbh-co-kg,Other,55,1406,6333,4361,15829,865,0,67,403,1310,935,5022,1366,0
+https://www.sortlist.com/de/s/pinterest-advertising/oesterreich-at,Other,71,1677,3114,5293,8326,712,0,72,446,678,1517,2323,724,0
+https://www.sortlist.com/de/s/motion-graphics/oesterreich-at,Other,84,1576,2579,4459,7534,400,0,67,449,1452,1411,2548,854,0
+https://www.sortlist.com/de/agency/antadis,Other,46,1594,8053,4706,17401,1410,0,61,380,1936,1675,4923,884,0
+https://www.sortlist.com/de/agency/cape6-gmbh,Other,49,1460,6515,3778,15524,1567,0,61,399,1738,1769,4930,1401,0
+https://www.sortlist.com/de/agency/coffeecom,Other,49,1440,6538,2676,16238,2050,0,55,354,2522,1638,4565,1297,0
+https://www.sortlist.com/de/agency/techedge-gmbh,Other,50,1422,6334,3035,15399,1688,0,72,363,543,1153,4164,817,0
+https://www.sortlist.com/de/s/animiertes-video/schweiz-ch,Other,84,1582,2551,3367,7662,465,0,75,408,706,1189,2069,591,0
+https://www.sortlist.com/de/agency/seoagents,Other,75,1408,2429,3797,15947,888,0,75,361,1151,816,4254,544,0
+https://www.sortlist.com/de/agency/ransoft,Other,59,1402,6279,2921,14505,733,0,67,394,1274,1224,4526,1160,0
+https://www.sortlist.com/de/agency/innovationsraum,Other,46,1398,6461,4419,17313,2171,0,64,348,1532,1675,4452,991,0
+https://www.sortlist.com/de/agency/scheer-pas-schweiz-ag,Other,52,1430,6394,3337,15195,1234,0,68,375,1223,1235,4348,992,0
+https://www.sortlist.com/de/agency/social-media-piraten,Other,50,1578,7343,4947,17518,1008,0,65,416,1986,1527,4204,615,0
+https://www.sortlist.com/de/agency/swissglobal-language-services-ag,Other,49,1441,6489,3539,15538,1693,0,67,426,1368,944,4522,1227,0
+https://www.sortlist.com/de/agency/sentiform,Other,45,1593,7295,4604,17032,2088,0,63,390,1793,1538,5087,888,0
+https://www.sortlist.com/de/s/seo-content-creation/oesterreich-at,Other,89,1520,2251,4752,7148,290,0,74,434,562,1238,2210,692,0
+https://www.sortlist.com/de/agency/pooliestudios,Other,80,1394,2427,2832,14716,688,0,69,349,522,1748,4393,958,0
+https://www.sortlist.com/de/agency/sounds-like-film,Other,46,1585,7413,5593,16097,1367,0,62,428,1800,1087,5292,1844,0
+https://www.sortlist.com/de/agency/medienhaus,Other,60,1410,6695,3683,14984,589,0,65,430,1578,969,4527,1041,0
+https://www.sortlist.com/de/agency/lane-digital-consulting,Other,42,1731,12473,7009,18424,1351,0,55,384,2422,2280,4894,790,0
+https://www.sortlist.com/agency/baharin-essay-writer,Agency,50,1431,6453,2913,15797,1519,0,67,354,511,2137,4381,962,0
+https://www.sortlist.com/agency/sinclair-public-affairs,Agency,66,1240,5694,3663,14770,479,0,71,373,842,710,4183,917,0
+https://www.sortlist.com/agency/fellers-snider,Agency,51,1266,6237,3373,15362,1362,0,74,352,544,1329,4062,644,0
+https://www.sortlist.com/agency/avomind,Agency,51,1426,6635,4367,15586,1083,0,70,374,1225,760,4273,859,0
+https://www.sortlist.com/agency/segula-technologies-italy,Agency,65,1237,6115,3691,14347,458,0,68,384,1257,805,4661,1305,0
+https://www.sortlist.com/agency/compare-income-protection-insurance,Agency,65,1240,6080,3238,14484,470,0,74,366,402,1195,3954,655,0
+https://www.sortlist.com/agency/global-relay-communications,Agency,59,1244,6149,3190,14239,750,0,66,389,1304,1437,4802,1436,0
+https://www.sortlist.com/agency/miind,Agency,47,1375,6987,5990,15577,1176,0,63,346,1559,2048,4537,899,0
+https://www.sortlist.com/agency/healer-services-and-lost-love-spell-caster-in-south-africa,Agency,75,1419,2252,3408,14643,1031,0,73,364,510,1216,4095,739,0
+https://www.sortlist.com/agency/crossfuse,Agency,53,1279,5573,2948,15708,1434,0,76,364,510,1164,3936,593,0
+https://www.sortlist.com/agency/msight-2,Agency,48,1379,7746,5487,16033,1042,0,68,397,1651,1035,4424,708,0
+https://www.sortlist.com/agency/management-solutions-international-qatar-for-recruitment-outsourcing,Agency,51,1235,6127,5184,15034,1047,0,70,371,508,1342,4504,1061,0
+https://www.sortlist.com/agency/bee-interactive,Agency,45,1395,7955,5082,16620,1709,0,63,384,1919,1381,4309,825,0
+https://www.sortlist.com/agency/reevateam,Agency,50,1228,5693,4629,15794,1456,0,79,355,443,857,3697,481,0
+https://www.sortlist.com/agency/arnaud-brunel,Agency,57,1274,6224,3944,15126,764,0,74,361,1185,1176,3755,546,0
+https://www.sortlist.com/agency/beyondcomms,Agency,48,1437,7632,4298,15426,1346,0,66,393,1528,827,4650,1178,0
+https://www.sortlist.com/agency/volcanographics,Agency,53,1378,5578,3965,15112,1256,0,73,357,664,1134,4177,716,0
+https://www.sortlist.com/agency/push-social-media-agency,Agency,46,1399,6569,5278,15241,1601,0,60,360,1579,2245,4878,1416,0
+https://www.sortlist.com/agency/clear-stream-films,Agency,52,1413,6420,3140,15772,1196,0,67,387,1259,768,5309,1601,0
+https://www.sortlist.com/agency/imexpert,Agency,42,1387,7081,6263,16306,2159,0,68,376,1392,1174,4353,816,0
+https://www.sortlist.com/agency/prompt-softech,Agency,52,1416,6518,4240,14770,1055,0,61,360,1558,2254,4509,1116,0
+https://www.sortlist.com/agency/cybercite,Agency,53,1405,6735,4520,15496,896,0,64,398,1695,1782,4169,730,0
+https://www.sortlist.com/agency/exclusive-concepts,Agency,51,1417,6469,3323,15132,1388,0,68,355,510,1755,4611,1478,0
+https://www.sortlist.com/agency/innovative-real-estate-solutions,Agency,54,1236,6222,4152,14576,995,0,68,361,1215,761,4550,1111,0
+https://www.sortlist.com/agency/mcdonald-hopkins,Agency,55,1265,6214,3554,14777,976,0,67,341,471,2569,4144,786,0
+https://www.sortlist.com/agency/herraiz-co,Agency,52,1351,6477,3864,14581,1176,0,69,353,521,1901,4104,865,0
+https://www.sortlist.com/agency/techcouver,Agency,65,1221,6090,3922,14056,448,0,66,356,516,2467,4518,1056,0
+https://www.sortlist.com/agency/solicitous-business-solutions-pvt-ltd,Agency,54,1379,6948,6097,14850,678,0,71,369,1269,841,3989,705,0
+https://www.sortlist.com/agency/415-creative-inc,Agency,69,1395,2449,4985,15204,1264,0,66,376,1245,1356,4755,1231,0
+https://www.sortlist.com/agency/southparc,Agency,49,1388,9200,5400,15270,952,0,65,346,1588,1984,3977,710,0
+https://www.sortlist.com/blog/category/84861abe-abce-45a9-9190-c16e27bfcb5a/copywriting/content-strategy/,Blog Category,56,4992,6546,4992,17702,352,0,84,1000,1435,1237,3940,256,0
+https://www.sortlist.com/blog/category/web-software-development/website-creation/,Blog Category,53,4992,11757,5053,19529,398,0,77,767,2000,1503,4302,291,0
+https://www.sortlist.com/blog/category/app-development/ipad-app-development/,Blog Category,61,4987,6730,4987,17844,204,0,71,1009,1472,1009,4064,529,0
+https://www.sortlist.com/blog/category/fcacd56f-2aeb-4dc1-ad1d-27031d6c7a32/app-development/mobile-app-game-development/,Blog Category,55,4989,6603,4989,18269,408,0,80,1003,1468,1169,3832,313,0
+https://www.sortlist.com/blog/category/gaming/2d-game-development/,Blog Category,43,4404,6151,7331,18503,846,0,84,727,1430,727,3731,280,0
+https://www.sortlist.com/blog/category/marketing/social-media,Blog Category,57,3915,14546,7389,19514,210,0,78,861,2699,2444,3920,84,0
+https://www.sortlist.com/blog/category/3d-design/3d-design-3d-design/,Blog Category,55,4987,6591,6939,17307,304,0,73,691,1467,1158,4125,523,0
+https://www.sortlist.com/blog/category/app-development/chatbot-development/,Blog Category,59,4988,6602,4988,17655,261,0,75,1006,1479,1234,3905,407,0
+https://www.sortlist.com/blog/category/marketing/sea/,Blog Category,50,5264,11424,5409,19834,460,0,82,802,2077,931,4044,228,0
+https://www.sortlist.com/blog/category/creative-design/mobile-app-design/,Blog Category,44,4991,11140,4991,19414,756,0,80,1002,1935,1002,4193,258,0
+https://www.sortlist.com/blog/category/app-development/smart-tv-development/,Blog Category,56,4413,6295,4413,17233,418,0,69,933,1441,933,4247,692,0
+https://www.sortlist.com/blog/category/gaming/ar-game-development/,Blog Category,51,4990,6599,4990,18654,516,0,70,888,1364,1282,4335,632,0
+https://www.sortlist.com/blog/category/fcacd56f-2aeb-4dc1-ad1d-27031d6c7a32/app-development/app-localization/,Blog Category,49,4992,6626,4992,17855,612,0,68,926,1370,1228,4499,736,0
+https://www.sortlist.com/blog/category/fcacd56f-2aeb-4dc1-ad1d-27031d6c7a32/app-development/hybrid-mobile-app-development/,Blog Category,64,3606,6745,5006,17806,187,0,72,922,1457,922,4231,556,0
+https://www.sortlist.com/blog/category/marketing/event-marketing/,Blog Category,55,4990,11186,4990,19325,318,0,80,1004,2014,1316,4007,230,0
+https://www.sortlist.com/blog/category/84861abe-abce-45a9-9190-c16e27bfcb5a/copywriting/,Blog Category,56,4991,6617,4991,17580,345,0,75,1006,1463,1317,3873,402,0
+https://www.sortlist.com/blog/category/app-development/react-native-development/,Blog Category,48,4416,7092,4416,18360,680,0,78,1007,1473,1177,3865,356,0
+https://www.sortlist.com/blog/category/84861abe-abce-45a9-9190-c16e27bfcb5a/event/event-marketing-event/,Blog Category,46,4991,6331,4991,18830,798,0,67,975,1192,1230,4733,988,0
+https://www.sortlist.com/blog/category/84861abe-abce-45a9-9190-c16e27bfcb5a/online-ad/sea-online-ad/,Blog Category,66,2856,6760,2856,17098,286,0,69,981,1266,981,4370,743,0
+https://www.sortlist.com/blog/category/marketing-84861abe-abce-45a9-9190-c16e27bfcb5a/ai-marketing/,Blog Category,47,4106,12291,4639,18534,678,0,86,1001,1473,1254,3637,212,0
+https://www.sortlist.com/blog/category/3d-design/,Blog Category,44,5016,6661,5016,18576,871,0,73,1004,1436,1285,3885,452,0
+https://www.sortlist.com/blog/category/sortlist-news/insights/,Blog Category,47,5264,11754,5675,22431,562,0,68,671,2737,2135,4983,298,0
+https://www.sortlist.com/blog/category/app-development/android-app-development/,Blog Category,52,1257,7093,3045,18792,1152,0,72,923,1439,1085,4063,528,0
+https://www.sortlist.com/blog/category/copywriting/,Blog Category,54,4989,6606,4989,17712,437,0,83,875,1445,1229,3710,272,0
+https://www.sortlist.com/blog/category/creative-design/motion-design/,Blog Category,60,4979,8436,4979,17847,208,0,71,1005,1812,1322,3868,433,0
+https://www.sortlist.com/blog/category/marketing/human-resources,Blog Category,59,4514,13208,5073,18389,222,0,71,1173,2128,1419,4539,349,0
+https://www.sortlist.com/blog/category/gaming/,Blog Category,46,4990,6612,4990,18765,749,0,63,1015,1439,2412,4382,691,0
+https://www.sortlist.com/blog/category/web-software-development/artificial-intelligence/,Blog Category,47,4991,8553,4991,19162,606,0,74,1004,2024,1024,3950,344,0
+https://www.sortlist.com/blog/category/app-development/,Blog Category,46,4256,6605,4256,18497,912,0,80,807,1455,807,3818,347,0
+https://www.sortlist.com/blog/category/marketing/emailing/,Blog Category,52,4531,12286,5045,18650,441,0,66,977,2669,1199,4413,412,0
+https://www.sortlist.com/event/baku,Event,82,1444,1951,3420,7664,649,0,69,352,501,1673,2638,1138,0
+https://www.sortlist.com/datahub/reports/linkedin-statistics/,Datahub,61,5701,16579,5701,16632,0,0,78,591,3492,1813,3505,4,0
+https://www.sortlist.com/datahub/reports/social-movements-mean-more-than-money-to-brands/,Datahub,60,5418,17049,6317,17229,0,0,79,771,3338,1704,3374,0,0
+https://www.sortlist.com/datahub/reports/metaverse-general-public/,Datahub,61,5432,15677,5473,15880,0,0,79,761,3252,1815,3299,0,0
+https://www.sortlist.com/datahub/reports/visibility-report/,Datahub,37,3754,22058,10395,31930,976,0,62,904,4127,2774,5535,249,0
+https://www.sortlist.com/datahub/reports/industry-report-travel-leisure/,Datahub,64,4365,13582,4365,13619,0,0,63,802,3091,1505,3119,397,0
+https://www.sortlist.com/datahub/reports/facebook-statistics/,Datahub,59,5740,16130,6485,16788,88,0,81,811,3110,1266,3121,47,0
+https://www.sortlist.com/datahub/reports/2021-online-courses-and-training-survey/,Datahub,62,4202,15622,5877,16362,6,0,81,551,3503,1022,3533,0,0
+https://www.sortlist.com/datahub/reports/social-media-shops-study/,Datahub,64,3153,18651,6428,18964,3,0,78,773,3460,1729,3496,0,0
+https://www.sortlist.com/datahub/reports/ai-startups/,Datahub,64,3003,19590,6613,19763,48,0,70,771,4175,2464,4216,143,0
+https://www.sortlist.com/datahub/reports_categories/website-creation-reports/,Datahub,62,5312,14509,5312,14532,8,0,84,507,2809,1044,2817,0,0
+https://www.sortlist.com/datahub/reports_categories/e-commerce-reports/,Datahub,62,4992,19035,4992,19050,2,0,81,532,3456,533,3467,0,0
+https://www.sortlist.com/datahub/reports/meta-advertising-index/,Datahub,61,5432,15868,5432,16205,1,0,79,761,3358,1554,3404,0,0
+https://www.sortlist.com/datahub/reports/remote-work-statistics/,Datahub,61,5414,15114,5414,15138,0,0,80,626,3098,1701,3106,3,0
+https://www.sortlist.com/datahub/reports/expanding-internationally/?nocache=1,Datahub,65,5132,6226,5132,15057,16,0,78,772,3560,1583,3570,22,0
+https://www.sortlist.com/datahub/reports/animation-statistics/,Datahub,62,4951,19202,5226,19419,12,0,79,772,3583,1452,3617,0,0
+https://www.sortlist.com/datahub/reports/desktop-vs-mobile-usage/,Datahub,64,4064,13438,4654,13483,0,0,70,771,3522,2154,3534,192,0
+https://www.sortlist.com/datahub/reports/cost-of-choosing-an-agency/,Datahub,61,5413,16127,5413,16165,0,0,79,772,3527,1534,3539,20,0
+https://www.sortlist.com/datahub/reports/apple-vision-pro-for-marketing/,Datahub,67,3454,15120,3720,15852,18,0,83,762,2995,981,3164,28,0
+https://www.sortlist.com/datahub/reports/is-my-phone-listening-to-me-for-ads/,Datahub,61,4685,13916,5863,14100,10,0,80,771,3095,1628,3127,0,0
+https://www.sortlist.com/datahub/reports/product-placement-power/,Datahub,62,5717,7576,5717,7584,0,0,90,902,1852,1254,1986,6,0
+https://www.sortlist.com/datahub/reports/cats-and-dogs-for-business/,Datahub,66,3754,17663,3754,17821,0,0,80,761,3257,1423,3287,0,0
+https://www.sortlist.com/datahub/reports/sme-best-places-to-start-business/,Datahub,60,5265,20613,6282,20832,20,0,76,776,3785,1781,3833,8,0
+https://www.sortlist.com/datahub/reports/smb-website-2020/,Datahub,61,5429,14866,5849,15768,5,0,82,378,3323,920,3353,0,0
+https://www.sortlist.com/datahub/reports/summer-marketing-strategy/,Datahub,48,5140,30413,13761,32288,337,0,66,903,5558,4968,6191,40,0
+https://www.sortlist.com/datahub/reports/events-report/,Datahub,65,4225,13081,4225,13201,12,0,83,762,2797,1174,2804,0,0
+https://www.sortlist.com/datahub/reports/design-statistics/,Datahub,61,4663,19652,5883,19817,102,0,79,771,3801,1151,3837,0,0
+https://www.sortlist.com/datahub/reports/covid-19-boosts-audio-consumption-by-76-2-2021-survey/,Datahub,61,4965,18813,5750,18986,0,0,78,695,3616,1570,3654,0,0
+https://www.sortlist.com/datahub/reports_categories/branding-reports/,Datahub,62,4994,15411,4994,15434,0,0,83,718,2841,1429,2845,0,0
+https://www.sortlist.com/datahub/reports_categories/influencer-marketing-reports/,Datahub,62,4994,14177,4994,14205,0,0,84,667,2846,667,2852,0,0
+https://www.sortlist.com/datahub/reports/your-digital-year/,Datahub,62,5290,7128,5290,16761,66,0,82,815,2822,1475,3436,34,0
